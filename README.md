@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **javascript, react js , node js**
 
-- 👨‍💻 All of my projects are available at [http://graceful-trouble.surge.sh/](http://graceful-trouble.surge.sh/)
-
-- 💬 Ask me about **Mern stack, javascript, react**
+- 👨‍💬 Ask me about **Mern stack, javascript, react**
 
 - 📫 How to reach me **mminhajwahidm@gmail.com**
 

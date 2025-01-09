@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadminhaj786" alt="muhammadminhaj786" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, react js , node js**
+- 🌱 I’m currently learning **TypeScript, Next js , Nest js**
 
 - 👨‍💬 Ask me about **Mern stack, javascript, react**
 
